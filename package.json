@@ -1,0 +1,19 @@
+{
+  "name": "reignprotocol_celo",
+  "version": "1.0.0",
+  "description": "![vlcsnap-2024-04-24-00h32m35s784](https://github.com/DeograciousAggrey/ReignProtocol_Shardeum/assets/68210234/48d0ce8a-2bf3-4db4-bca6-7a726a6ee20d)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
